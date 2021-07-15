@@ -1,4 +1,4 @@
 # MaZe-Generator
-Graph Algorithm, DsU, KrusKal, Prim's
 
-backtracking, disjoint set union(dsu), kruskal, prim's a sexy massup of all ;)
+2D maze generation algorithms such as Kruskal’s algorithm, Randomized
+Depth-First traversal and Prim’s algorithm.
